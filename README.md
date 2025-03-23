@@ -17,10 +17,6 @@ MapaFLY-1.0
 
 packmanager
 
-Ve****ty-0.12
-
-MWE-4.0 (Public)
-
 BarrierVisibility-1.0.0
 
 clientfixer-1.2(special_anphice)
@@ -30,3 +26,5 @@ FpsReducer-1.10.3 (Public)
 MemoryFix-0.3 (Public)
 
 PolyTime (Public)
+
+MWE-4.0 (Public)
